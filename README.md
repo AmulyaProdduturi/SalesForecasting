@@ -10,8 +10,11 @@ This project is done for the following purpose:
 Dataset used:
 
 Macro Economic data: Data provides details on GDP value, Unemployment rate,Commercial Bank Interest Rate on Credit Card Plans, Cotton Monthly Price, Cotton Monthly production, Cotton Exports etc
+
 Weather data: Date provides the high, avg , low values of Temperature, Humidity, Visibility, Sea pressure, Wind speed. Data also has precipitation values for every day and  also the weather event of every day .
+
 Holiday data: Data provides the list of holidays and type of holiday from the year 2009 to 2015.
+
 Train data: Sales data for different product categories from the year 2009 to 2015.
 
 Data Preprocessing:
