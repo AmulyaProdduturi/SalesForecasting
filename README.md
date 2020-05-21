@@ -30,10 +30,13 @@ Data Preprocessing:
 
 Techniques used:
 
-Linear Regression
-Decision Trees
-Random forests
-Gradient Boosting Regression
+1.Linear Regression
+
+2.Decision Trees
+
+3.Random forests
+
+4.Gradient Boosting Regression
 
 Error metrics to evaluate the performance of the model:
 
@@ -41,6 +44,7 @@ Root mean square error
 Mean absolute percentage error
 
 Enhancements made to improve the performance of the model:
+
 Few attributes which are highly corelated are removed using Variance inflation factor and Feature Importance.
 Then all the four techniques are applied on the new dataset.
 
