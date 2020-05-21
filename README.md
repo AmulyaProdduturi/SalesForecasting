@@ -18,6 +18,7 @@ Holiday data: Data provides the list of holidays and type of holiday from the ye
 Train data: Sales data for different product categories from the year 2009 to 2015.
 
 Data Preprocessing:
+
 1.Dropping Null values: We are dropping the rows with NA values as we take the mean of every month data and convert the whole data from daily to monthly data.
 
 2.Replacing T value in Precip col with 0.001. 'T' in precipitation means that precipitation is less than 0.001. Hence we will replace the value with 0.001
